@@ -3,7 +3,7 @@ let ballY = 200;
 let speedX = 2;
 let speedY = 3;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(800, 800);
 }
 
 function draw() {
